@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FluentMigratorDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "up"
+    }
+  }
+}
